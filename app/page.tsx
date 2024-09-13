@@ -6,6 +6,7 @@ export default function Home() {
       <Link href='/toc'>Toc</Link>
       <Link href='/flexible-sidebar'>Flexible sidebar</Link>
       <Link href='/active-link'>active link</Link>
+      <Link href='/css-demo'>CSS Demo</Link>
     </div>
   );
 }
