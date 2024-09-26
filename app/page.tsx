@@ -9,6 +9,7 @@ export default function Home() {
       <Link href='/css-demo'>CSS Demo</Link>
       <Link href='/lucide'>Lucide icon</Link>
       <Link href='/simple-icons'>simple icons</Link>
+      <Link href='/date-fns'>date-fns</Link>
     </div>
   );
 }
