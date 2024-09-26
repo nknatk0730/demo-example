@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button"
 import { SiLineHex, SiReact, SiVercel } from "@icons-pack/react-simple-icons"
 import { useTheme } from "next-themes"
 
-export const Icon = () => {
+export const IconDemo = () => {
   const theme = useTheme();
 
   return (
