@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { IconDemo } from "./components/icon";
+import { IconDemo } from "./components/icon-demo";
 
 export default function Page() {
   return (
